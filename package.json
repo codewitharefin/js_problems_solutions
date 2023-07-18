@@ -1,0 +1,23 @@
+{
+  "name": "js_problems_solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewitharefin/js_problems_solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewitharefin/js_problems_solutions/issues"
+  },
+  "homepage": "https://github.com/codewitharefin/js_problems_solutions#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
